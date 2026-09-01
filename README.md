@@ -1,16 +1,16 @@
 
 # 👋 Hi, I'm Richard
 
-### 💻 Computer Science Student | Aspiring Software Engineer 🇬🇭
+### 💻 Computer Science Student | Aspiring Network Engineer |
 
-I'm a Computer Science student passionate about software development,
+I'm a Computer Science student passionate about network engineering,
 technology, and building practical solutions.
 
 ---
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
+
 
 ---
 
@@ -28,10 +28,7 @@ technology, and building practical solutions.
 
 ---
 
-## 🎯 My Goal
 
-To become a skilled software engineer and build technology
-that solves real-world problems.
 <!--
 **ritchie-don/ritchie-don** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
