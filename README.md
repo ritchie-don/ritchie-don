@@ -1,6 +1,6 @@
 # About Me:
-
-### 💻 Computer Science Student | Aspiring Network Engineer |
+Hi, I'm Richard 💻
+### Computer Science Student | Aspiring Network Engineer |Software Engineer
 
 I'm a Computer Science student passionate about network engineering,
 technology, and building practical solutions.
