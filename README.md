@@ -1,5 +1,4 @@
-
-# 👋 Hi, I'm Richard
+# About Me:
 
 ### 💻 Computer Science Student | Aspiring Network Engineer |
 
